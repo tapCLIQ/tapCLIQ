@@ -1,5 +1,5 @@
 # tapCLIQ
-Build Powerful Interactive Messages & Bots
+<b>Build Powerful Interactive Messages & Bots</b>
 
 <p align="center">
   <a href="https://www.tapcliq.com"><img src="assets/poster-ad-dynamic.gif" />
