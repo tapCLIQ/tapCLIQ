@@ -9,5 +9,5 @@ Build Powerful Interactive Messages & Bots
 </p>
 
 
-| [What is tapCLIQ?](https://www.tapcliq.com/) | [Getting Started](https://www.tapcliq.com/supportdoc) | [Readymade Templates](https://www.tapcliq.com/supportdoc#readymade-templates) | [Download Bot](https://www.tapcliq.com/supportdoc?catid=67) | [Start for Free](https://webportal.tapcliq.com/tapcliqweb/signup) | [Web SDK](https://www.tapcliq.com/supportdoc?catid=49) | [Usecases](https://www.tapcliq.com/usecases) | Down
+| [What is tapCLIQ?](https://www.tapcliq.com/) | [Getting Started](https://www.tapcliq.com/supportdoc) | [Readymade Templates](https://www.tapcliq.com/supportdoc#readymade-templates) | [Start for Free](https://webportal.tapcliq.com/tapcliqweb/signup) | [Web SDK](https://www.tapcliq.com/supportdoc?catid=49) | [Usecases](https://www.tapcliq.com/usecases) | Down
 |---|---|---|---|---|---|---|
